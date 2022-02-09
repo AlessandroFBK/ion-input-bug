@@ -1,0 +1,7 @@
+{
+  "name": "ion-input-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
